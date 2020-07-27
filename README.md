@@ -1,4 +1,4 @@
-## Medical Report Generation
+## Medical Report Generation论文复现
 A base project for Medical Report Generation.
 
 ## Config
